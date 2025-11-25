@@ -6,7 +6,7 @@ This project involves an end-to-end business intelligence solution to analyze sa
 
 ## **2. Key Features and Insights**
 
-**•	KPI Monitoring:** Real-time tracking of Total Sales, Gross Profit, Discount Rate, and Units Sold.
+**•	KPI Monitoring:** tracking of Total Sales, Gross Profit, Discount Rate, and Units Sold.
 
 **•	Geographic Analysis:** Visualizing sales distribution and performance segmented by Region and City.
 
