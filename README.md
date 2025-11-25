@@ -43,4 +43,4 @@ Analysis	        Sales Analytics, Profitability Analysis	          Interpreting 
 **5.	Validation:** Cross-verified dashboard figures against source data to ensure accuracy and consistency.
 
 
-![Image Alt](image_url)
+![Image Alt](https://github.com/AnupamBanerjee28/Sales-Data-Analysis-and-Performance/blob/84da9359bb4e3cfd0e4eb3b1bd306dbb1eddb834/Screenshot%20.png)
